@@ -1,5 +1,0 @@
-{
-    "workbench.editorAssociations": {
-        "*.copilotmd": "vscode.markdown.preview.editor"
-    }
-}
