@@ -688,100 +688,11 @@ def main():
         # },
         
         # Example 2: Scrape search results
-        {
-            'type': 'search',
-            'target': 'Healthcare Nepal',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepal Healthcare',
-            'max_scrolls': 50
-        },
-        
-        {
-            'type': 'search',
-            'target': 'Hospitals Nepal',
-            'max_scrolls': 50
-        },
-        {
-            'type': 'search',
-            'target': 'नेपालको स्वास्थ्य',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'नेपाल स्वास्थ्य',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'नेपाल स्वास्थ्य सेवा',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': '#NepalHealth',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali Healthcare',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali Hospitals',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali Health',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali Health Service',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali स्वास्थ्य',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali स्वास्थ्य सेवा',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali स्वास्थ्य सेवा प्रणाली',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali स्वास्थ्य सेवा प्रणाली सुधार',
-            'max_scrolls': 50
-        },
-
-        {
-            'type': 'search',
-            'target': 'Nepali स्वास्थ्य सेवा प्रणाली सुधारका उपाय',
-            'max_scrolls': 50
-        },
+        # {
+        #     'type': 'search',
+        #     'target': 'Healthcare Nepal',
+        #     'max_scrolls': 50
+        # },
     ]
     
     # Execute all tasks with single login
