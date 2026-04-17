@@ -1,4 +1,4 @@
-# Twitter/X Web Scraper 
+# Twittus_Extractorium - Twitter/X Web Scraper 
 <mark>Center for Aritficial Intelligence Research (CAIR) Nepal</mark>
 
 A robust, ethical web scraping tool for collecting public Twitter/X data for academic research and data analysis purposes. Built with Playwright for reliable browser automation and designed with responsible scraping practices.
