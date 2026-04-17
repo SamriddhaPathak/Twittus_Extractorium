@@ -1,0 +1,17 @@
+# Twitter/X Web Scraper - Python Dependencies
+
+# Core dependency for browser automation
+playwright>=1.40.0
+
+# Optional: Data analysis and export
+pandas>=2.0.0
+openpyxl>=3.1.0  # For Excel export
+
+# Optional: Enhanced logging
+colorama>=0.4.6  # For colored terminal output
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.5.0
