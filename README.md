@@ -1,5 +1,4 @@
 # Twittus_Extractorium - Twitter/X Web Scraper 
-<mark>Center for Aritficial Intelligence Research (CAIR) Nepal</mark>
 
 A robust, ethical web scraping tool for collecting public Twitter/X data for academic research and data analysis purposes. Built with Playwright for reliable browser automation and designed with responsible scraping practices.
 
@@ -513,6 +512,18 @@ git push origin feature/your-feature-name
 - Write meaningful commit messages
 - Test changes before submitting
 - Update documentation as needed
+
+## Scraper Detection Bypass Technique
+
+Follow the steps below to Bypass the initial detection :
+
+1. Click on **"Forgot Password"** on the login page.
+2. Check your Gmail inbox for the password reset link.
+3. Follow the link and set a new password.
+4. Log in using your newly reset password.
+5. After login press Return in the Terminal to start scrapping 
+
+This will help you bypass the initial scraper detection by Twitter/X
 
 ## License
 
